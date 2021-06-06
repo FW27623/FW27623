@@ -4,13 +4,12 @@ I am a college student from China. I like open source and all interesting things
 
 I want to be an interesting person and create something that can be remembered by others.
 
-- 🔭 I’m currently writing some amateur [open source project](https://github.com/FW27623?tab=repositories).
-- 🌱 I’m currently learning Computer Graphics & Games & Drawing, and want to learn everything interesting.
-- 🤔 I want to make a pure front-end (more html & css than canvas) avg engine recently.
-- ❤️ I like eating 🍉, raising 🐓, playing 🏓, sleeping in 🛌 and watching 📺 [ACGN](<https://en.wikipedia.org/wiki/ACG_(subculture)>).
+- 🔭 I’m currently copy some amateur [open source project](https://github.com/FW27623?tab=repositories).
+- 🌱 I’m currently learning Computer Graphics & Computer Games & Drawing, and want to learn everything interesting.
+- ❤️ I like eating 🍉, playing 🏓, sleeping in 🛌 and watching 📺 [ACG](<https://en.wikipedia.org/wiki/ACG_(subculture)>).
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=FW27623&hide_title=false&show_icons=true&icon_color=0078e7&title_color=0078e7&locale=cn">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FW27623&hide_title=false&show_icons=true&icon_color=0078e7&title_color=0078e7&locale=cn">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FW27623&hide_title=true&show_icons=true&icon_color=0078e7&title_color=0078e7&locale=cn">
 
 #### Languages and Frameworks
 
