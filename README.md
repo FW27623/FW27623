@@ -9,7 +9,7 @@ I want to be an interesting person and create something that can be remembered b
 - ❤️ I like eating 🍉, playing 🏓, sleeping in 🛌 and watching 📺 [ACG](<https://en.wikipedia.org/wiki/ACG_(subculture)>).
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=FW27623&hide_title=false&show_icons=true&icon_color=0078e7&title_color=0078e7&locale=cn">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FW27623&hide_title=true&show_icons=true&icon_color=0078e7&title_color=0078e7&locale=cn">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FW27623&hide_title=false&show_icons=true&icon_color=0078e7&title_color=0078e7&locale=cn">
 
 #### Languages and Frameworks
 
