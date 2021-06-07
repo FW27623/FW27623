@@ -14,20 +14,20 @@ I want to be an interesting person and create something that can be remembered b
 
 #### Languages and Frameworks
 
-<code><img height="20" src="https://github.com/FW27623/FW27623/blob/main/html.png"></code>
-<code><img height="20" src="https://github.com/FW27623/FW27623/blob/main/css.png"></code>
-<code><img height="20" src="https://github.com/FW27623/FW27623/blob/main/javascript.png"></code>
-<code><img height="20" src="https://github.com/FW27623/FW27623/blob/main/nodejs.png"></code>
-<code><img height="20" src="https://github.com/FW27623/FW27623/blob/main/python.png"></code>
+<code><img height="20" src="https://www.fw1028.top/wp-content/uploads/2021/06/html.png"></code>
+<code><img height="20" src="https://www.fw1028.top/wp-content/uploads/2021/06/css.png"></code>
+<code><img height="20" src="https://www.fw1028.top/wp-content/uploads/2021/06/javascript.png"></code>
+<code><img height="20" src="https://www.fw1028.top/wp-content/uploads/2021/06/nodejs.png"></code>
+<code><img height="20" src="https://www.fw1028.top/wp-content/uploads/2021/06/python.png"></code>
 
 #### Tools
 
-<code><img height="20" src="https://github.com/FW27623/FW27623/blob/main/git.png"></code>
-<code><img height="20" src="https://github.com/FW27623/FW27623/blob/main/visual-studio-code.png"></code>
-<code><img height="20" src="https://github.com/FW27623/FW27623/blob/main/macos.png"></code>
+<code><img height="20" src="https://www.fw1028.top/wp-content/uploads/2021/06/git.png"></code>
+<code><img height="20" src="https://www.fw1028.top/wp-content/uploads/2021/06/visual-studio-code.png"></code>
+<code><img height="20" src="https://www.fw1028.top/wp-content/uploads/2021/06/macos.png"></code>
 
 #### Interested
 
-<code><img height="20" src="https://github.com/FW27623/FW27623/blob/main/unity.png"></code>
-<code><img height="20" src="https://github.com/FW27623/FW27623/blob/main/unreal-engine.png"></code>
-<code><img height="20" src="https://github.com/FW27623/FW27623/blob/main/adobeaftereffects.svg"></code>
+<code><img height="20" src="https://www.fw1028.top/wp-content/uploads/2021/06/unity.png"></code>
+<code><img height="20" src="https://www.fw1028.top/wp-content/uploads/2021/06/unreal-engine.png"></code>
+<code><img height="20" src="https://www.fw1028.top/wp-content/uploads/2021/06/adobeaftereffects.svg"></code>
