@@ -5,7 +5,7 @@ I am a college student from China. I like open source and all interesting things
 I want to be an interesting person and create something that can be remembered by others.
 
 - 🔭 I’m currently copy some amateur [open source project](https://github.com/FW27623?tab=repositories).
-- 🌱 I’m currently learning Computer Graphics & Computer Games & Drawing, and want to learn everything interesting.
+- 🌱 I’m currently learning Computer Games & Drawing, and want to learn everything interesting.
 - ❤️ I like eating 🍉, playing 🏓, sleeping in 🛌 and watching 📺 [ACG](<https://en.wikipedia.org/wiki/ACG_(subculture)>).
 
 #### Code Rating
@@ -14,19 +14,19 @@ I want to be an interesting person and create something that can be remembered b
 
 #### Languages and Frameworks
 
-<code><img height="20" src="https://www.fw1028.top/wp-content/uploads/2021/06/html.png"></code>
-<code><img height="20" src="https://www.fw1028.top/wp-content/uploads/2021/06/css.png"></code>
-<code><img height="20" src="https://www.fw1028.top/wp-content/uploads/2021/06/javascript.png"></code>
-<code><img height="20" src="https://www.fw1028.top/wp-content/uploads/2021/06/nodejs.png"></code>
-<code><img height="20" src="https://www.fw1028.top/wp-content/uploads/2021/06/python.png"></code>
+<code><img height="30" src="https://www.fw1028.top/wp-content/uploads/2021/06/html.png"></code>
+<code><img height="30" src="https://www.fw1028.top/wp-content/uploads/2021/06/css.png"></code>
+<code><img height="30" src="https://www.fw1028.top/wp-content/uploads/2021/06/javascript.png"></code>
+<code><img height="30" src="https://www.fw1028.top/wp-content/uploads/2021/06/nodejs.png"></code>
+<code><img height="30" src="https://www.fw1028.top/wp-content/uploads/2021/06/python.png"></code>
 
 #### Tools
 
-<code><img height="20" src="https://www.fw1028.top/wp-content/uploads/2021/06/git.png"></code>
-<code><img height="20" src="https://www.fw1028.top/wp-content/uploads/2021/06/visual-studio-code.png"></code>
-<code><img height="20" src="https://www.fw1028.top/wp-content/uploads/2021/06/macos.png"></code>
+<code><img height="30" src="https://www.fw1028.top/wp-content/uploads/2021/06/git.png"></code>
+<code><img height="30" src="https://www.fw1028.top/wp-content/uploads/2021/06/visual-studio-code.png"></code>
+<code><img height="30" src="https://www.fw1028.top/wp-content/uploads/2021/06/macos.png"></code>
 
 #### Interested
 
-<code><img height="20" src="https://www.fw1028.top/wp-content/uploads/2021/06/unity.png"></code>
-<code><img height="20" src="https://www.fw1028.top/wp-content/uploads/2021/06/unreal-engine.png"></code>
+<code><img height="30" src="https://www.fw1028.top/wp-content/uploads/2021/06/unity.png"></code>
+<code><img height="30" src="https://www.fw1028.top/wp-content/uploads/2021/06/unreal-engine.png"></code>
