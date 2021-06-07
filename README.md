@@ -14,19 +14,19 @@ I want to be an interesting person and create something that can be remembered b
 
 #### Languages and Frameworks
 
-<code><img height="30" src="https://www.fw1028.top/wp-content/uploads/2021/06/html.png"></code>
-<code><img height="30" src="https://www.fw1028.top/wp-content/uploads/2021/06/css.png"></code>
-<code><img height="30" src="https://www.fw1028.top/wp-content/uploads/2021/06/javascript.png"></code>
-<code><img height="30" src="https://www.fw1028.top/wp-content/uploads/2021/06/nodejs.png"></code>
-<code><img height="30" src="https://www.fw1028.top/wp-content/uploads/2021/06/python.png"></code>
+<code><img height="23" src="https://www.fw1028.top/wp-content/uploads/2021/06/html.png"></code>
+<code><img height="23" src="https://www.fw1028.top/wp-content/uploads/2021/06/css.png"></code>
+<code><img height="23" src="https://www.fw1028.top/wp-content/uploads/2021/06/javascript.png"></code>
+<code><img height="23" src="https://www.fw1028.top/wp-content/uploads/2021/06/nodejs.png"></code>
+<code><img height="23" src="https://www.fw1028.top/wp-content/uploads/2021/06/python.png"></code>
 
 #### Tools
 
-<code><img height="30" src="https://www.fw1028.top/wp-content/uploads/2021/06/git.png"></code>
-<code><img height="30" src="https://www.fw1028.top/wp-content/uploads/2021/06/visual-studio-code.png"></code>
-<code><img height="30" src="https://www.fw1028.top/wp-content/uploads/2021/06/macos.png"></code>
+<code><img height="23" src="https://www.fw1028.top/wp-content/uploads/2021/06/git.png"></code>
+<code><img height="23" src="https://www.fw1028.top/wp-content/uploads/2021/06/visual-studio-code.png"></code>
+<code><img height="23" src="https://www.fw1028.top/wp-content/uploads/2021/06/macos.png"></code>
 
 #### Interested
 
-<code><img height="30" src="https://www.fw1028.top/wp-content/uploads/2021/06/unity.png"></code>
-<code><img height="30" src="https://www.fw1028.top/wp-content/uploads/2021/06/unreal-engine.png"></code>
+<code><img height="23" src="https://www.fw1028.top/wp-content/uploads/2021/06/unity.png"></code>
+<code><img height="23" src="https://www.fw1028.top/wp-content/uploads/2021/06/unreal-engine.png"></code>
