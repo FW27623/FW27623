@@ -30,4 +30,3 @@ I want to be an interesting person and create something that can be remembered b
 
 <code><img height="20" src="https://www.fw1028.top/wp-content/uploads/2021/06/unity.png"></code>
 <code><img height="20" src="https://www.fw1028.top/wp-content/uploads/2021/06/unreal-engine.png"></code>
-<code><img height="20" src="https://www.fw1028.top/wp-content/uploads/2021/06/adobeaftereffects.svg"></code>
