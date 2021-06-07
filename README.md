@@ -4,9 +4,9 @@ I am a college student from China. I like open source and all interesting things
 
 I want to be an interesting person and create something that can be remembered by others.
 
-**- 🔭 I’m currently copy some amateur [open source project](https://github.com/FW27623?tab=repositories).**
-**- 🌱 I’m currently learning Computer Games & Drawing, and want to learn everything interesting.**
-**- ❤️ I like eating 🍉, playing 🏓, sleeping in 🛌 and watching 📺 [ACG](<https://en.wikipedia.org/wiki/ACG_(subculture)>).**
+**- 🔭 I’m currently copy some amateur [open source project](https://github.com/FW27623?tab=repositories).<br>**
+**- 🌱 I’m currently learning Computer Games & Drawing, and want to learn everything interesting.<br>**
+**- ❤️ I like eating 🍉, playing 🏓, sleeping in 🛌 and watching 📺 [ACG](<https://en.wikipedia.org/wiki/ACG_(subculture)>).<br>**
 
 ## Code Rating
 <img align="left" height="180px" src="https://github-readme-stats.vercel.app/api?username=FW27623&hide_title=false&show_icons=true&line_height=21&icon_color=0078e7&title_color=0078e7&locale=en">
