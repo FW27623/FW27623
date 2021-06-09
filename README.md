@@ -10,7 +10,7 @@
 
 ### Code Rating
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=FW27623&hide_title=false&show_icons=true&line_height=21&icon_color=0078e7&title_color=0078e7&locale=en">
-<img align="left" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FW27623&hide_title=false&show_icons=true&line_height=21&icon_color=0078e7&title_color=0078e7&locale=en">
+<img align="left" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FW27623&hide_title=false&show_icons=true&line_height=21&icon_color=0078e7&title_color=0078e7&locale=en">
 <br><br><br><br><br><br><br><br>  
   <br><br>
   
