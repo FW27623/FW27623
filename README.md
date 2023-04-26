@@ -9,8 +9,7 @@
 **- ❤️ I like eating 🍉, playing 🏓, sleeping in 🛌 and watching 📺 [ACG](<https://en.wikipedia.org/wiki/ACG_(subculture)>).<br>**
 
 ### Code Rating
-<img src="https://github-readme-stats.vercel.app/api?username=FW27623&show_icons=true&bg_color=00000000" alt="FW27623's GitHub stats" height="180px" /> 
-<img src="https://github-readme-stats-mu-lilac-56.vercel.app/api/top-langs/?username=FW27623&hide_title=false&show_icons=true&line_height=21&icon_color=0078e7&title_color=0078e7&locale=en" alt="FW27623's GitHub stats" height="180px" />
+<p align="cneter"><img src="https://github-readme-stats.vercel.app/api?username=FW27623&show_icons=true&bg_color=00000000" alt="FW27623's GitHub stats" height="180px" /><img align="center" height="180px" width="auto" src="https://github-readme-stats-mu-lilac-56.vercel.app/api/top-langs/?username=FW27623&hide_title=false&show_icons=true&line_height=21&icon_color=0078e7&title_color=0078e7&locale=en"></p>
   
 <br>
 
