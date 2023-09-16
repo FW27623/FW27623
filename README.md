@@ -1,13 +1,5 @@
 ## Hi everyone, I'm [FW27623](https://www.fw1028.top). 👋
 
-**I am a college student from China. I like open source and all interesting things and want to try to do it.<br>**
-
-**I want to be an interesting person and create something that can be remembered by others.<br>**
-
-**- 🔭 I’m currently copy some amateur [open source project](https://github.com/FW27623?tab=repositories).<br>**
-**- 🌱 I’m currently learning Computer Games & Drawing, and want to learn everything interesting.<br>**
-**- ❤️ I like eating 🍉, playing 🏓, sleeping in 🛌 and watching 📺 [ACG](<https://en.wikipedia.org/wiki/ACG_(subculture)>).<br>**
-
 ### Code Rating
 <img align="left" height="180px" width="auto" src="https://github-readme-stats-mu-lilac-56.vercel.app/api?username=FW27623&hide_title=false&show_icons=true&line_height=21&icon_color=0078e7&title_color=0078e7&locale=en">
 <img align="center" height="180px" width="auto" src="https://github-readme-stats-mu-lilac-56.vercel.app/api/top-langs/?username=FW27623&hide_title=false&show_icons=true&line_height=21&icon_color=0078e7&title_color=0078e7&locale=en">
